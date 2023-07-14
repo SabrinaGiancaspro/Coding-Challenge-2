@@ -1,0 +1,91 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    width:950px;
+    height: 700px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.512);
+    border-radius: 2%;
+    margin-top: 25px;
+}
+
+.logo{
+     width: 200px;
+     margin-top: 75px;
+     margin-left: 375px;
+}
+
+.title{
+    color: rgb(19, 244, 19);
+    text-align: center;
+    line-height: 10px;
+}
+
+.input{
+    background-color: rgb(27, 255, 27);
+    margin-right: 60px;
+    margin-left: 60px;
+    padding: 7px;
+    text-align: center;
+}
+
+.checkbox{
+    margin-left: 60px;
+    
+}
+
+div h3 {
+    color: white;
+    display: inline-block;
+    line-height: 1px;
+
+}
+
+div h3{
+    
+    margin-top: 35px;
+}
+
+div span{
+    color: white;
+    font-size: 14px;
+    line-height: 1px;
+}
+
+.freccia{
+    margin-left: 60px;
+}
+
+
+.carica{
+    margin-left: 60px;
+}
+
+#arancione{
+    background: rgb(249, 191, 85);
+    width: 300px;
+    height: 25px;
+    border-radius: 5px;
+    margin-left: 60px;
+
+}
+
+#verde{
+    background: rgb(42, 201, 42);
+    width: 500px;
+    height: 25px;
+    border-radius: 5px;
+    margin-left: 60px;
+}
+
+#rossa{
+    background: rgba(229, 76, 76, 0.795);
+    width: 125px;
+    height: 25px;
+    border-radius: 5px;
+    margin-left: 60px;
+}
